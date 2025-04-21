@@ -27,6 +27,6 @@ To try the project:
 
 Or view it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Date-formatter/)
 
 ## Let’s continue learning how to work with dates and time zones in JavaScript! 🕒🚀
