@@ -1,3 +1,5 @@
+/*** date-formatter-styles ***/
+
 console.log("Date Formatter");
 
 const currentDateParagraph = document.getElementById("current-date");
