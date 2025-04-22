@@ -1,4 +1,4 @@
-/*** date-formatter-styles ***/
+/*** Date Formatter ***/
 
 console.log("Date Formatter");
 
